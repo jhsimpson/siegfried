@@ -1,3 +1,27 @@
 {
-  "GoVersion": "go1.5",
+    "ImportPath": "github.com/jhsimpson/siegfried",
+    "GoVersion": "go1.5",
+    "Deps": [
+        {
+            "ImportPath": "github.com/richardlehane/match"
+        },
+        {
+            "ImportPath": "github.com/richardlehane/characterize"
+        },
+        {
+            "ImportPath": "github.com/richardlehane/mscfb"
+        },
+        {
+            "ImportPath": "github.com/richardlehane/msoleps"
+        },
+        {
+            "ImportPath": "github.com/richardlehane/webarchive"
+        },
+        {
+            "ImportPath": "golang.org/x/sys"
+        },
+        {
+            "ImportPath": "golang.org/x/text"
+        }
+    ]
 }
