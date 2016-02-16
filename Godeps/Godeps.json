@@ -21,7 +21,23 @@
             "ImportPath": "golang.org/x/sys"
         },
         {
-            "ImportPath": "golang.org/x/text"
+            "ImportPath": "golang.org/x/text/width"
+        },
+        {
+            "ImportPath": "golang.org/x/text/unicode"
+        },
+        {
+            "ImportPath": "golang.org/x/text/transform"
+        },
+        {
+            "ImportPath": "golang.org/x/text/search"
+        },
+        {
+            "ImportPath": "golang.org/x/text/runes"
+        },
+        {
+            "ImportPath": "golang.org/x/text/message"
         }
+        
     ]
 }
